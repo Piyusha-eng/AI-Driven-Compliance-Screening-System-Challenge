@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+langgraph
+langchain-google-genai
+weasyprint
+sqlalchemy
+psycopg2-binary
+redis
+pytest
+httpx
+python-dotenv
+Jinja2
+langchain
